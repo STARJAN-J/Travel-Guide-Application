@@ -2,7 +2,7 @@ package StarjanProject.Tourist_Guide_Console_App.bookActivities;
 
 import StarjanProject.Tourist_Guide_Console_App.activities.Activity;
 import StarjanProject.Tourist_Guide_Console_App.exceptionHandling.ExceptionHandling;
-import StarjanProject.users.User;
+import StarjanProject.Tourist_Guide_Console_App.users.User;
 
 public class BookActivity {
     

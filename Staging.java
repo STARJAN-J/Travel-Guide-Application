@@ -5,9 +5,9 @@ import StarjanProject.Tourist_Guide_Console_App.homePages.ClientHomePage;
 import StarjanProject.Tourist_Guide_Console_App.homePages.CustomerHomePage;
 import StarjanProject.Tourist_Guide_Console_App.usersDataManagement.Login;
 import StarjanProject.Tourist_Guide_Console_App.usersDataManagement.UserData;
-import StarjanProject.users.Client;
-import StarjanProject.users.Customer;
-import StarjanProject.users.User;
+import StarjanProject.Tourist_Guide_Console_App.users.Client;
+import StarjanProject.Tourist_Guide_Console_App.users.Customer;
+import StarjanProject.Tourist_Guide_Console_App.users.User;
 
 public class Staging {
     

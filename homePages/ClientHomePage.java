@@ -3,8 +3,8 @@ package StarjanProject.Tourist_Guide_Console_App.homePages;
 import StarjanProject.Tourist_Guide_Console_App.activities.Activity;
 import StarjanProject.Tourist_Guide_Console_App.clientServices.Program;
 import StarjanProject.Tourist_Guide_Console_App.exceptionHandling.ExceptionHandling;
-import StarjanProject.users.Client;
-import StarjanProject.users.User;
+import StarjanProject.Tourist_Guide_Console_App.users.Client;
+import StarjanProject.Tourist_Guide_Console_App.users.User;
 
 public class ClientHomePage {
 

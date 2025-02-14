@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import StarjanProject.Tourist_Guide_Console_App.exceptionHandling.ExceptionHandling;
-import StarjanProject.users.User;
+import StarjanProject.Tourist_Guide_Console_App.users.User;
 
 public class UserData {
     private static List<User> customers = new ArrayList<>();

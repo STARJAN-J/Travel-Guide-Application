@@ -8,7 +8,7 @@ import StarjanProject.Tourist_Guide_Console_App.activities.Itineraries;
 import StarjanProject.Tourist_Guide_Console_App.activities.Sightseeing;
 import StarjanProject.Tourist_Guide_Console_App.activities.WaterActivity;
 import StarjanProject.Tourist_Guide_Console_App.exceptionHandling.ExceptionHandling;
-import StarjanProject.users.Client;
+import StarjanProject.Tourist_Guide_Console_App.users.Client;
 
 public class DataLoader {
     
